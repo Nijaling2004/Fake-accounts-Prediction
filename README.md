@@ -16,7 +16,7 @@ The model is trained on a labeled dataset containing real and fake account infor
 
 ---
 
-# 🛠️ Technologies Used
+** Technologies Used**
 
 - Python
 - Machine Learning
@@ -30,7 +30,7 @@ The model is trained on a labeled dataset containing real and fake account infor
 
 ---
 
-# 📂 Project Structure
+* Project Structure*
 
 ```
 Fake-Account-Prediction/
@@ -64,7 +64,7 @@ The dataset contains various profile-related features such as:
 
 ---
 
-# ⚙️ Machine Learning Workflow
+# Machine Learning Workflow
 
 1. Data Collection
 2. Data Cleaning
@@ -88,7 +88,7 @@ The dataset contains various profile-related features such as:
 
 ---
 
- 📈 Model Evaluation
+  Model Evaluation
 
 The model performance is evaluated using:
 
@@ -122,7 +122,7 @@ The model performance is evaluated using:
 
 ---
 
-******💡 Future Enhancements 💡********
+****** Future Enhancements ********
 
 - Improve prediction accuracy
 - Add Deep Learning models
@@ -133,7 +133,7 @@ The model performance is evaluated using:
 
 ---
 
-***** 🎓 Learning Outcomes *****
+*****  Learning Outcomes *****
 
 Through this project, I learned:
 
